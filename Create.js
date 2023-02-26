@@ -11,7 +11,7 @@ function Create() {
   const [birthday, setBirthday] = useState("");
   const [location, setLocation] = useState("");
 
-  // console.log(name);
+  console.log(name);
 
   const navigate = useNavigate();
 
